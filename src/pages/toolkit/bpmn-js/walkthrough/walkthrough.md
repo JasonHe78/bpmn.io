@@ -11,6 +11,9 @@
 [bpmn-js](https://github.com/bpmn-io/bpmn-js) is a BPMN 2.0 rendering toolkit and web modeler.
 It is written in JavaScript, embeds BPMN 2.0 diagrams into modern browsers and requires no server backend. That makes it easy to embed it into any web application.
 
+[bpmn-js](https://github.com/bpmn-io/bpmn-js) 是 BPMN 2.0 流程在线设计器和渲染工具包。
+用JS编写， 把 BPMN 2.0 流程图嵌入浏览器，并且不需要服务器端支持，方便在任何H5应用中嵌入流程设计。
+
 The library is built in a way that it can be both a viewer and web modeler. Use the [viewer](https://github.com/bpmn-io/bpmn-js-examples/tree/master/url-viewer) to embed BPMN 2.0 into your applications and [enrich it with your data](https://github.com/bpmn-io/bpmn-js-examples/tree/master/overlays). Use the [modeler](https://github.com/bpmn-io/bpmn-js-examples/tree/master/modeler) to create BPMN 2.0 diagrams inside your application.
 
 This walkthrough will give you an introduction on how to use the library as well as some insights into its internals, i.e. the components that contribute to its highly modular and extensible structure.
